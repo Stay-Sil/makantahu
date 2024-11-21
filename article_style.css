@@ -1,0 +1,102 @@
+.parallax1{
+    background-image: url("T\ Nation\ Content.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body{
+    margin: 0;
+}
+
+.paragraph1{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 30px 10px 30px ;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax2{
+    background-image: url("5\ Tips\ Menggoreng\ Tahu\ agar\ Tidak\ Mudah\ Hancur.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+
+.paragraph2{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 30px 10px 30px ;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax3{
+    background-image: url("Les\ aliments\ qui\ permettent\ de\ vivre\ plus\ longtemps.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+
+.paragraph3{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 30px 10px 30px ;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax4{
+    background-image: url("Tofu\ &\ FODMAPs.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+
+.paragraph4{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 30px 10px 30px ;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax5{
+    background-image: url("2\ Tahu.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+
+.paragraph5{
+    font-family: "Sour Gummy", sans-serif;
+    margin: 10px 30px 10px 30px ;
+    text-align: justify;
+
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax6{
+    background-image: url("9\ tahu.jpeg");
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+
+.parallax-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: poppins;
+    width: 100%;
+    color: rgb(15, 104, 181);
+    font-size: 26px;
+    text-align: center;
+}
